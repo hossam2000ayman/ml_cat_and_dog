@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071227355003",
+    "project_id": "cat-and-dog-classifier",
+    "storage_bucket": "cat-and-dog-classifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071227355003:android:f9c78c44a3b75f27a747de",
+        "android_client_info": {
+          "package_name": "com.example.ml_cat_and_dog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071227355003-fgl8m9eqmcp7b4oqjg41uoacl9javmfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1EqpYl0GoNPcsc2gwt6CGQUNbdXfNxQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071227355003-fgl8m9eqmcp7b4oqjg41uoacl9javmfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
